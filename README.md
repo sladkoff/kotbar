@@ -1,3 +1,5 @@
+[![Maven Central](https://img.shields.io/maven-central/v/de.sldk/kotbar.svg?style=flat-square)](https://mvnrepository.com/artifact/de.sldk/kotbar/latest)
+
 # Kotbar
 
 A crappy progress-bar for sysout written in Kotlin.
