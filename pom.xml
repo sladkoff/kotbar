@@ -19,6 +19,9 @@
     </parent>
 
     <properties>
+	<maven.compiler.source>1.6</maven.compiler.source>
+        <maven.compiler.target>1.6</maven.compiler.target>
+
         <kotlin.version>1.2.71</kotlin.version>
         <kotlin.compiler.incremental>true</kotlin.compiler.incremental>
 

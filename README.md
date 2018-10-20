@@ -1,6 +1,6 @@
 [![Maven Central](https://img.shields.io/maven-central/v/de.sldk/kotbar.svg?style=flat-square)](https://mvnrepository.com/artifact/de.sldk/kotbar/latest)
 
-<img src="https://raw.githubusercontent.com/sladkoff/kotbar/feature/docs/kotbar.png" width="50px" height="50px" align="right">
+<img src="https://raw.githubusercontent.com/sladkoff/kotbar/feature/docs/docs/kotbar.png" width="50px" height="50px" align="right">
 
 # Kotbar
 
@@ -35,3 +35,8 @@ for (i in 1..10) {
 kotbar.done()
 ```
 
+## Peview
+
+![](https://raw.githubusercontent.com/sladkoff/kotbar/feature/docs/docs/kotbar_normal.gif)
+
+![](https://raw.githubusercontent.com/sladkoff/kotbar/feature/docs/docs/kotbar_error.gif)
